@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
