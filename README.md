@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keesha-luthra/code-notebook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keesha-luthra/code-notebook/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
