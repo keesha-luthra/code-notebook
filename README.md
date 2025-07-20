@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/keesha-luthra/code-notebook/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/keesha-luthra/code-notebook/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -161,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keesha-luthra/code-notebook/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keesha-luthra/code-notebook/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
