@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keesha-luthra/code-notebook/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/keesha-luthra/code-notebook/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0392-is-subsequence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keesha-luthra/code-notebook/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/keesha-luthra/code-notebook/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
