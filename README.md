@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keesha-luthra/code-notebook/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/keesha-luthra/code-notebook/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 ## Tree
