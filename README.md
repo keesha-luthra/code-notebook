@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
 | ------- |
