@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0064-minimum-path-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 ## Linked List
 |  |
