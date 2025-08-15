@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0120-triangle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
