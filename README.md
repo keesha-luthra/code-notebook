@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keesha-luthra/code-notebook/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/keesha-luthra/code-notebook/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
