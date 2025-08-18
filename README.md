@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/keesha-luthra/code-notebook/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
