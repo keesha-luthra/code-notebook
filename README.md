@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keesha-luthra/code-notebook/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
