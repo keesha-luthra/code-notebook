@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keesha-luthra/code-notebook/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
