@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
+| [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/keesha-luthra/code-notebook/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keesha-luthra/code-notebook/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
+| [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 ## Memoization
 |  |
 | ------- |
