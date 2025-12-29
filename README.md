@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keesha-luthra/code-notebook/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
+| [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/keesha-luthra/code-notebook/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
+| [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 ## Two Pointers
 |  |
 | ------- |
