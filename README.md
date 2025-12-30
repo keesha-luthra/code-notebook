@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keesha-luthra/code-notebook/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keesha-luthra/code-notebook/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
+| [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0073-set-matrix-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0967-minimum-falling-path-sum) |
 ## Stack
 |  |
