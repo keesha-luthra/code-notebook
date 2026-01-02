@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keesha-luthra/code-notebook/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/keesha-luthra/code-notebook/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/keesha-luthra/code-notebook/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
