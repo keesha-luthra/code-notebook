@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keesha-luthra/code-notebook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keesha-luthra/code-notebook/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keesha-luthra/code-notebook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
