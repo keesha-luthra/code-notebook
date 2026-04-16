@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
+| [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
 ## Array
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keesha-luthra/code-notebook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
 ## String
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/keesha-luthra/code-notebook/tree/master/0704-binary-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
