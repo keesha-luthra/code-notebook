@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 | [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
