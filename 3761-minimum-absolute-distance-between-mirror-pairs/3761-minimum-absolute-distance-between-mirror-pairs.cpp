@@ -1,3 +1,38 @@
+// class Solution {
+// public:
+//     int reverse(int n){
+//         int rev = 0;
+//         while(n > 0){
+//             int r = n % 10;
+//             rev = rev * 10 + r;
+//             n = n / 10;
+//         }
+//         return rev;
+//     }
+
+//     int minMirrorPairDistance(vector<int>& nums) {
+//         unordered_map<int, vector<int>> mpp;
+//         int d = INT_MAX;
+
+//         for(int i = 0; i < nums.size(); i++){
+//             mpp[nums[i]].push_back(i);
+//         }
+
+//         for(int i = 0; i < nums.size(); i++){
+//             int reverseNum = reverse(nums[i]);
+
+//             if(mpp.find(reverseNum) != mpp.end()){
+//                 for(auto it : mpp[reverseNum]){
+//                     if(it > i){   // ⭐ THIS is the key
+//                         d = min(d, it - i);
+//                     }
+//                 }
+//             } 
+//         }
+
+//         return d == INT_MAX ? -1 : d;
+//     }
+// };
 class Solution {
 public:
     int reverse(int n){
