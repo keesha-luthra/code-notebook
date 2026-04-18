@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
