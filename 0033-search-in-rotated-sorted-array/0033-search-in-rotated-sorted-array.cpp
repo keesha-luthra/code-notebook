@@ -10,7 +10,7 @@ public:
 
             // left half is sorted
             if(nums[start] <= nums[mid]){
-                if(target >= nums[start] && target <= nums[mid]){
+                if(target >= nums[start] && target < nums[mid]){
                     end = mid - 1;
                 }
                 else
@@ -19,7 +19,7 @@ public:
 
             // right half is sorted 
             else if(nums[mid] < nums[end]){
-                if(target >= nums[mid] && target <= nums[end]){
+                if(target > nums[mid] && target <= nums[end]){
                     start = mid + 1;
                 }
                 else
