@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/keesha-luthra/code-notebook/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/keesha-luthra/code-notebook/tree/master/0485-max-consecutive-ones) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/keesha-luthra/code-notebook/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/keesha-luthra/code-notebook/tree/master/0875-koko-eating-bananas) |
@@ -401,11 +404,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
