@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keesha-luthra/code-notebook/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keesha-luthra/code-notebook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/keesha-luthra/code-notebook/tree/master/0128-longest-consecutive-sequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keesha-luthra/code-notebook/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keesha-luthra/code-notebook/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/keesha-luthra/code-notebook/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/keesha-luthra/code-notebook/tree/master/2069-walking-robot-simulation-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keesha-luthra/code-notebook/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
