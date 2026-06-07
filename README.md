@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keesha-luthra/code-notebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keesha-luthra/code-notebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/keesha-luthra/code-notebook/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keesha-luthra/code-notebook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -455,4 +457,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keesha-luthra/code-notebook/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keesha-luthra/code-notebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
