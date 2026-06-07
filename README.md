@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/keesha-luthra/code-notebook/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keesha-luthra/code-notebook/tree/master/1796-second-largest-digit-in-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/keesha-luthra/code-notebook/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/keesha-luthra/code-notebook/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/keesha-luthra/code-notebook/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/keesha-luthra/code-notebook/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keesha-luthra/code-notebook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
+| [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/keesha-luthra/code-notebook/tree/master/3783-mirror-distance-of-an-integer) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keesha-luthra/code-notebook/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
 |  |
 | ------- |
@@ -450,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/keesha-luthra/code-notebook/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keesha-luthra/code-notebook/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/keesha-luthra/code-notebook/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
