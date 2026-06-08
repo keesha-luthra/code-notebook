@@ -19,6 +19,6 @@ public:
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         if(k == nums.size()) return nums.size();
-        return abs(atMost(nums, k) - atMost(nums, k -1));
+        return atMost(nums, k) - atMost(nums, k -1);
     }
 };
