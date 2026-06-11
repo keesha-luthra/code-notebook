@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/keesha-luthra/code-notebook/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 ## Two Pointers
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/keesha-luthra/code-notebook/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keesha-luthra/code-notebook/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keesha-luthra/code-notebook/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
