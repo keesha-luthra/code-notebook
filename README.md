@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/keesha-luthra/code-notebook/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
 | ------- |
