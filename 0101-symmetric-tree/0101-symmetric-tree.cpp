@@ -10,17 +10,13 @@
  * };
  */
 class Solution {
-bool func(TreeNode* left, TreeNode* right){
-    if(!left && !right) return true;
-    if(!left || !right) return NULL;
-    if(left->val != right->val) return false;
-    else{
-        return func(left->left, right->right) && func(left->right, right->left);
-    }
-    return true;
-}
 public:
+    bool isMirror(TreeNode* left, TreeNode* right){
+        if(left == NULL && right == NULL) return true;
+        if(left == NULL || right == NULL) return false;
+        return (left->val == right->val) && isMirror(left->left, right->right) && isMirror(left->right, right->left);
+    }
     bool isSymmetric(TreeNode* root) {
-        return func(root->left, root->right);
+        return isMirror(root->left, root->right);
     }
 };
