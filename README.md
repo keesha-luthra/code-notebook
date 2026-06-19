@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
