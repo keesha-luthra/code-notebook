@@ -10,18 +10,25 @@
  * };
  */
 class Solution {
-private:
-void helper(TreeNode* root, int level, vector<int> &ans){
-    if(root == NULL) return;
-    if(ans.size() == level) ans.push_back(root->val);
-    if(root->right) helper(root->right, level + 1, ans);
-    if(root->left) helper(root->left, level + 1, ans); 
-}
 public:
     vector<int> rightSideView(TreeNode* root) {
+        // row->node;
+        map<int, int> mpp;
+        // Node, row
+        queue<pair<TreeNode*, int>> q;
+        if(root) q.push({root, 0});
+        while(!q.empty()){
+            TreeNode* node = q.front().first;
+            int row = q.front().second;
+            q.pop();
+            mpp[row] = node->val;
+            if(node->left) q.push({node->left, row + 1});
+            if(node->right) q.push({node->right, row + 1});
+        }
         vector<int> ans;
-        int level = 0;
-        helper(root, level, ans);
+        for(auto it : mpp){
+            ans.push_back(it.second);
+        }
         return ans;
     }
 };
