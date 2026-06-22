@@ -20,18 +20,31 @@ public:
         // root->left = NULL;
         // prev = root;
 
-        stack<TreeNode*> st;
-        if(root) st.push(root);
-        TreeNode* curr = NULL;
-        while(!st.empty()){
-            curr = st.top();
-            st.pop();
-            if(curr->right) st.push(curr->right);
-            if(curr->left) st.push(curr->left);
-            if(!st.empty()){
-                curr->right = st.top();
+        // stack<TreeNode*> st;
+        // if(root) st.push(root);
+        // TreeNode* curr = NULL;
+        // while(!st.empty()){
+        //     curr = st.top();
+        //     st.pop();
+        //     if(curr->right) st.push(curr->right);
+        //     if(curr->left) st.push(curr->left);
+        //     if(!st.empty()){
+        //         curr->right = st.top();
+        //         curr->left = NULL;
+        //     }
+        // }
+
+        TreeNode* curr = root;
+        TreeNode* prev = NULL;
+        while(curr != NULL){
+            if(curr->left){
+                prev = curr->left;
+                while(prev->right) prev = prev->right;
+                prev->right = curr->right;
+                curr->right = curr->left;
                 curr->left = NULL;
             }
+            curr = curr->right;
         }
     }
 };
