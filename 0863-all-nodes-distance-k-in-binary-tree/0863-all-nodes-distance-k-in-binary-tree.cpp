@@ -11,10 +11,10 @@ class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         vector<int> answer;
-        if(k == 0){
-            answer.push_back(target->val);
-            return answer;
-        }
+        // if(k == 0){
+        //     answer.push_back(target->val);
+        //     return answer;
+        // }
         unordered_map<TreeNode*, TreeNode*> mpp;
         queue<TreeNode*> q;
         q.push(root);
@@ -37,6 +37,7 @@ public:
         visited.insert(target);
         while(!q.empty()){
             int levelSize = q.size();
+            if(currDistance == k) break;
             for(int i = 0; i < levelSize; i++){
                 TreeNode* node = q.front();
                 q.pop();
@@ -54,7 +55,6 @@ public:
                 }
             }
             currDistance += 1;
-            if(currDistance == k) break;
         }
         while(!q.empty()){
             answer.push_back(q.front()->val);
