@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/keesha-luthra/code-notebook/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/keesha-luthra/code-notebook/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/keesha-luthra/code-notebook/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keesha-luthra/code-notebook/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/keesha-luthra/code-notebook/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/keesha-luthra/code-notebook/tree/master/2069-walking-robot-simulation-ii) |
@@ -644,10 +648,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
