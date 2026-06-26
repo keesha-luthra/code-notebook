@@ -16,8 +16,8 @@ public:
         if(idx == preorder.size()) return NULL;
         int val = preorder[idx];
         if(val <= mini || val >= maxi) return NULL;
-        idx++;
         TreeNode* root = new TreeNode(val);
+        idx++;
         root->left = build(preorder, mini, val);
         root->right = build(preorder, val, maxi);
         return root;
