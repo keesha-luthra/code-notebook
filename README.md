@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/keesha-luthra/code-notebook/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/keesha-luthra/code-notebook/tree/master/1129-longest-string-chain) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keesha-luthra/code-notebook/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
