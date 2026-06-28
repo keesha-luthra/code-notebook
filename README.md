@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/keesha-luthra/code-notebook/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keesha-luthra/code-notebook/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/keesha-luthra/code-notebook/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/keesha-luthra/code-notebook/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/keesha-luthra/code-notebook/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/keesha-luthra/code-notebook/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/keesha-luthra/code-notebook/tree/master/0904-fruit-into-baskets) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/keesha-luthra/code-notebook/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
