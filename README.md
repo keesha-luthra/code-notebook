@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/keesha-luthra/code-notebook/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/keesha-luthra/code-notebook/tree/master/0907-sum-of-subarray-minimums) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/keesha-luthra/code-notebook/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/keesha-luthra/code-notebook/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/keesha-luthra/code-notebook/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/keesha-luthra/code-notebook/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/keesha-luthra/code-notebook/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/keesha-luthra/code-notebook/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/keesha-luthra/code-notebook/tree/master/0907-sum-of-subarray-minimums) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/keesha-luthra/code-notebook/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/keesha-luthra/code-notebook/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keesha-luthra/code-notebook/tree/master/2410-maximum-matching-of-players-with-trainers) |
