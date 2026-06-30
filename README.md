@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/keesha-luthra/code-notebook/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/keesha-luthra/code-notebook/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/keesha-luthra/code-notebook/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/keesha-luthra/code-notebook/tree/master/0200-number-of-islands) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/keesha-luthra/code-notebook/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/keesha-luthra/code-notebook/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/keesha-luthra/code-notebook/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/keesha-luthra/code-notebook/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0160-intersection-of-two-linked-lists) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/keesha-luthra/code-notebook/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/keesha-luthra/code-notebook/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/keesha-luthra/code-notebook/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0297-serialize-and-deserialize-binary-tree) |
