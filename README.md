@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/keesha-luthra/code-notebook/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/keesha-luthra/code-notebook/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/keesha-luthra/code-notebook/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/keesha-luthra/code-notebook/tree/master/2402-meeting-rooms-iii) |
 ## Shortest Path
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keesha-luthra/code-notebook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/keesha-luthra/code-notebook/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/keesha-luthra/code-notebook/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/keesha-luthra/code-notebook/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/keesha-luthra/code-notebook/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keesha-luthra/code-notebook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/keesha-luthra/code-notebook/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/keesha-luthra/code-notebook/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keesha-luthra/code-notebook/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/keesha-luthra/code-notebook/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/keesha-luthra/code-notebook/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Stack
 |  |
@@ -721,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keesha-luthra/code-notebook/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/keesha-luthra/code-notebook/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/keesha-luthra/code-notebook/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
