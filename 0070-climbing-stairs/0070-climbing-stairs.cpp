@@ -1,5 +1,15 @@
 class Solution {
 public:
+    // Recursion
+    // int helper(int ind){
+    //     if(ind <= 1) return 1;
+    //     return helper(ind - 1) + helper(ind - 2);
+    // }
+    // int climbStairs(int n) {
+    //     return helper(n);
+    // }
+    
+    // Memoization
     // int helper(int ind, vector<int>& dp){
     //     if(ind <= 1) return 1;
     //     if(dp[ind] != -1) return dp[ind];
@@ -10,7 +20,7 @@ public:
     //     return helper(n, dp);
     // }
     
-    
+    // Tabulation
     // int climbStairs(int n) {
     //     vector<int> dp(n + 1, -1);
     //     dp[0] = 1;
@@ -21,7 +31,7 @@ public:
     //     return dp[n];
     // }
 
-    
+    // Space Optimization
     int climbStairs(int n) {
         vector<int> dp(n + 1, -1);
         int prev2 = 1;
