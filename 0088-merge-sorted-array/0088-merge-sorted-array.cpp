@@ -1,26 +1,59 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = m - 1;
-        int j = n - 1;
-        int k = m + n - 1;
-        while(i >= 0 && j >= 0){
-            if(nums1[i] > nums2[j]){
-                nums1[k] = nums1[i];
-                i--;
-                k--;
+    void swap1(vector<int>& nums1, int index1,
+               vector<int>& nums2, int index2) {
+        if(nums1[index1] > nums2[index2]) {
+            swap(nums1[index1], nums2[index2]);
+        }
+    }
+
+    void merge(vector<int>& nums1, int m,
+               vector<int>& nums2, int n) {
+
+        int len = m + n;
+        int gap = len / 2 + len % 2;
+
+        while(gap > 0) {
+
+            int left = 0;
+            int right = left + gap;
+
+            while(right < len) {
+
+                // Both elements are in nums1
+                if(left < m && right < m) {
+                    if(nums1[left] > nums1[right]) {
+                        swap(nums1[left], nums1[right]);
+                    }
+                }
+
+                // left in nums1, right in nums2
+                else if(left < m && right >= m) {
+                    swap1(nums1, left,
+                          nums2, right - m);
+                }
+
+                // Both elements are in nums2
+                else {
+                    if(nums2[left - m] > nums2[right - m]) {
+                        swap(nums2[left - m],
+                             nums2[right - m]);
+                    }
+                }
+
+                left++;
+                right++;
             }
-            else{
-                nums1[k] = nums2[j];
-                j--;
-                k--;
-            }
+
+            if(gap == 1)
+                break;
+
+            gap = gap / 2 + gap % 2;
         }
 
-        while(j >= 0){
-            nums1[k] = nums2[j];
-            j--;
-            k--;
+        // Copy sorted nums2 into nums1
+        for(int i = 0; i < n; i++) {
+            nums1[m + i] = nums2[i];
         }
     }
 };
