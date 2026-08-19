@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/keesha-luthra/code-notebook/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/keesha-luthra/code-notebook/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1153-product-sales-analysis-i](https://github.com/keesha-luthra/code-notebook/tree/master/1153-product-sales-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/keesha-luthra/code-notebook/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/keesha-luthra/code-notebook/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/keesha-luthra/code-notebook/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/keesha-luthra/code-notebook/tree/master/1258-article-views-i) |
