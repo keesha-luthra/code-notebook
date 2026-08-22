@@ -36,7 +36,7 @@ public:
             }
         }
 
-        int cntCity = n;
+        int cntCity = n; //smallest number of reachable cities we've seen so far
         int ans = -1;
         for(int city = 0; city < n; city++){
             int cnt = 0;
@@ -47,7 +47,7 @@ public:
             }
             if(cnt <= cntCity){
                 cntCity = cnt;
-                ans = city;
+                ans = city; 
             }
         }
         return ans;
