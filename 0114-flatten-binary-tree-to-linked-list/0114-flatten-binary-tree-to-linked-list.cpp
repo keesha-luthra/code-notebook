@@ -11,40 +11,27 @@
  */
 class Solution {
 public:
-    // TreeNode* prev = NULL;
     void flatten(TreeNode* root) {
-        // if(root == NULL) return;
-        // flatten(root->right);
-        // flatten(root->left);
-        // root->right = prev;
-        // root->left = NULL;
-        // prev = root;
+        if(root == NULL) return;
 
-        // stack<TreeNode*> st;
-        // if(root) st.push(root);
-        // TreeNode* curr = NULL;
-        // while(!st.empty()){
-        //     curr = st.top();
-        //     st.pop();
-        //     if(curr->right) st.push(curr->right);
-        //     if(curr->left) st.push(curr->left);
-        //     if(!st.empty()){
-        //         curr->right = st.top();
-        //         curr->left = NULL;
-        //     }
-        // }
+        // flatten both subtrees
+        flatten(root->left);
+        flatten(root->right);
 
+        // save original right subtree
+        TreeNode* right = root->right;
+
+        // move flattened left subtree to the right
+        root->right = root->left;
+        root->left = NULL;
+
+         // Find the end of the flattened left subtree
         TreeNode* curr = root;
-        TreeNode* prev = NULL;
-        while(curr != NULL){
-            if(curr->left){
-                prev = curr->left;
-                while(prev->right) prev = prev->right;
-                prev->right = curr->right;
-                curr->right = curr->left;
-                curr->left = NULL;
-            }
+        while(curr->right != NULL){
             curr = curr->right;
         }
+        
+        // Attach original right subtree at the end         
+        curr->right = right;
     }
 };
