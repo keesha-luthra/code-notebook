@@ -3,9 +3,9 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         stack<int> st;
         for(auto a : asteroids){
-            while(!st.empty() && st.top() > 0 && a < 0 && st.top() < -a) st.pop();
+            while(!st.empty() && st.top() > 0 && a < 0 && st.top() < abs(a)) st.pop();
             if(!st.empty() && st.top() > 0 && a < 0){
-                if(st.top() == -a) st.pop();
+                if(st.top() == abs(a)) st.pop();
             }
             else st.push(a);
         }
