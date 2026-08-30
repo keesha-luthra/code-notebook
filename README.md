@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/keesha-luthra/code-notebook/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/keesha-luthra/code-notebook/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0540-single-element-in-a-sorted-array) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/keesha-luthra/code-notebook/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/keesha-luthra/code-notebook/tree/master/0875-koko-eating-bananas) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/keesha-luthra/code-notebook/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/keesha-luthra/code-notebook/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -801,4 +805,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keesha-luthra/code-notebook/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
