@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/keesha-luthra/code-notebook/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/keesha-luthra/code-notebook/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keesha-luthra/code-notebook/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/keesha-luthra/code-notebook/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/keesha-luthra/code-notebook/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/keesha-luthra/code-notebook/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/keesha-luthra/code-notebook/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keesha-luthra/code-notebook/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keesha-luthra/code-notebook/tree/master/0992-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
@@ -675,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/keesha-luthra/code-notebook/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/keesha-luthra/code-notebook/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/keesha-luthra/code-notebook/tree/master/0860-lemonade-change) |
