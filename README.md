@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/keesha-luthra/code-notebook/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/keesha-luthra/code-notebook/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/keesha-luthra/code-notebook/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/keesha-luthra/code-notebook/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/keesha-luthra/code-notebook/tree/master/0496-next-greater-element-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/keesha-luthra/code-notebook/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/keesha-luthra/code-notebook/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/keesha-luthra/code-notebook/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/keesha-luthra/code-notebook/tree/master/0414-third-maximum-number) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keesha-luthra/code-notebook/tree/master/0992-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keesha-luthra/code-notebook/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/keesha-luthra/code-notebook/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
@@ -827,4 +833,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0493-reverse-pairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keesha-luthra/code-notebook/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
