@@ -1,48 +1,45 @@
+
 class Solution {
 public:
-
-    struct compare {
+    struct Compare {
         bool operator()(ListNode* a, ListNode* b) {
             return a->val > b->val;
         }
     };
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-
         priority_queue<
             ListNode*,
             vector<ListNode*>,
-            compare
+            Compare
         > pq;
 
-        // Put head of every non-empty list
-        // into the min heap
+        // Add the head of each non-empty list
         for (ListNode* head : lists) {
             if (head != nullptr) {
                 pq.push(head);
             }
         }
 
-        // Dummy node
-        ListNode* dummy = new ListNode(-1);
-        ListNode* tail = dummy;
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
 
         while (!pq.empty()) {
-
-            // Get smallest node
+            // Get the smallest current node
             ListNode* node = pq.top();
             pq.pop();
 
-            // Add it to answer
+            // Append it to the result
             tail->next = node;
-            tail = tail->next;
+            tail = node;
 
-            // Add next node from same list
+            // Add the next node from the same list
             if (node->next != nullptr) {
                 pq.push(node->next);
             }
         }
 
-        return dummy->next;
+        tail->next = nullptr;
+        return dummy.next;
     }
 };
