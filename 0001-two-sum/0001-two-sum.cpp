@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        // Brute Force
         // vector<int> ans;
         // for(int i = 0; i < nums.size(); i++){
         //     for(int j = i + 1; j < nums.size(); j++){
@@ -13,6 +14,7 @@ public:
         // }
         // return ans;
 
+        // Optimized
         unordered_map<int, int> mpp;
         vector<int> ans;
         for(int i = 0; i < nums.size(); i++){
