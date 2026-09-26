@@ -1,13 +1,13 @@
-
 class LRUCache {
 private:
     int capacity;
 
-    // Most recently used key is at the front.
-    // Least recently used key is at the back.
-    list<pair<int, int>> dll;
+    // Doubly linked list:
+    // Front = most recently used
+    // Back = least recently used
+    list<pair<int, int>> cache;
 
-    // Key -> iterator pointing to its node in the list.
+    // Map each key to its position in the linked list
     unordered_map<int, list<pair<int, int>>::iterator> mp;
 
 public:
@@ -16,37 +16,56 @@ public:
     }
 
     int get(int key) {
+
+        // Return -1 if the key does not exist
         if (mp.find(key) == mp.end()) {
             return -1;
         }
 
-        // Get the node's iterator.
+        // Find the node using its stored iterator
         auto it = mp[key];
 
-        // Move the accessed node to the front.
-        dll.splice(dll.begin(), dll, it);
+        // Save its value before moving the node
+        int value = it->second;
 
-        return it->second;
+        // Remove it from its current position
+        cache.erase(it);
+
+        // Move the accessed item to the front
+        cache.push_front({key, value});
+
+        // Update the map to point to the new list position
+        mp[key] = cache.begin();
+
+        return value;
     }
 
     void put(int key, int value) {
-        // If key already exists, update and mark recent.
+
+        // If key already exists, remove its old list node
         if (mp.find(key) != mp.end()) {
-            auto it = mp[key];
-            it->second = value;
-            dll.splice(dll.begin(), dll, it);
-            return;
+            cache.erase(mp[key]);
         }
 
-        // Insert new key at the front.
-        dll.push_front({key, value});
-        mp[key] = dll.begin();
+        // If key is new and the cache is full,
+        // remove the least recently used item from the back
+        else if (cache.size() == capacity) {
 
-        // Evict least recently used if over capacity.
-        if (mp.size() > capacity) {
-            auto lru = dll.back();
-            mp.erase(lru.first);
-            dll.pop_back();
+            // Get the key of the least recently used item
+            int lruKey = cache.back().first;
+
+            // Remove that item from the list
+            cache.pop_back();
+
+            // Remove its entry from the map
+            mp.erase(lruKey);
         }
+
+        // Insert the new or updated item at the front
+        // It is now the most recently used item
+        cache.push_front({key, value});
+
+        // Store the iterator of the newly inserted node
+        mp[key] = cache.begin();
     }
 };
