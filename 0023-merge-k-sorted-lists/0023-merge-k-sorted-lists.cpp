@@ -1,45 +1,53 @@
-
 class Solution {
 public:
-    struct Compare {
-        bool operator()(ListNode* a, ListNode* b) {
-            return a->val > b->val;
-        }
-    };
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
+
+        // Comparator for a min-heap:
+        // The node with the smallest value has highest priority
+        auto cmp = [](ListNode* a, ListNode* b) {
+            return a->val > b->val;
+        };
+
+        // Create a min-heap of ListNode pointers
         priority_queue<
             ListNode*,
             vector<ListNode*>,
-            Compare
-        > pq;
+            decltype(cmp)
+        > minHeap(cmp);
 
-        // Add the head of each non-empty list
-        for (ListNode* head : lists) {
-            if (head != nullptr) {
-                pq.push(head);
+        // Add the first node of every non-empty linked list
+        for (ListNode* node : lists) {
+            if (node != nullptr) {
+                minHeap.push(node);
             }
         }
 
+        // Dummy node simplifies construction of the result list
         ListNode dummy(0);
+
+        // Tail always points to the last node in the merged list
         ListNode* tail = &dummy;
 
-        while (!pq.empty()) {
-            // Get the smallest current node
-            ListNode* node = pq.top();
-            pq.pop();
+        // Continue until all nodes have been processed
+        while (!minHeap.empty()) {
 
-            // Append it to the result
-            tail->next = node;
-            tail = node;
+            // Get the smallest available node
+            ListNode* smallest = minHeap.top();
+            minHeap.pop();
 
-            // Add the next node from the same list
-            if (node->next != nullptr) {
-                pq.push(node->next);
+            // Attach this node to the result list
+            tail->next = smallest;
+
+            // Move the tail forward
+            tail = tail->next;
+
+            // Add the next node from the same list, if it exists
+            if (smallest->next != nullptr) {
+                minHeap.push(smallest->next);
             }
         }
 
-        tail->next = nullptr;
+        // Return the merged list, skipping the dummy node
         return dummy.next;
     }
 };
