@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/keesha-luthra/code-notebook/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/keesha-luthra/code-notebook/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/keesha-luthra/code-notebook/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/keesha-luthra/code-notebook/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0229-majority-element-ii) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/keesha-luthra/code-notebook/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/keesha-luthra/code-notebook/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/keesha-luthra/code-notebook/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/keesha-luthra/code-notebook/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0206-reverse-linked-list) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/keesha-luthra/code-notebook/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/keesha-luthra/code-notebook/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -897,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keesha-luthra/code-notebook/tree/master/0022-generate-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/keesha-luthra/code-notebook/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
