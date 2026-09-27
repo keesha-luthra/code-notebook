@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/keesha-luthra/code-notebook/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/keesha-luthra/code-notebook/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/keesha-luthra/code-notebook/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/keesha-luthra/code-notebook/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/keesha-luthra/code-notebook/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/keesha-luthra/code-notebook/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/keesha-luthra/code-notebook/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/keesha-luthra/code-notebook/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/keesha-luthra/code-notebook/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keesha-luthra/code-notebook/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0062-unique-paths) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/keesha-luthra/code-notebook/tree/master/0657-robot-return-to-origin) |
