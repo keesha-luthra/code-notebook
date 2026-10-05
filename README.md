@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/keesha-luthra/code-notebook/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keesha-luthra/code-notebook/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keesha-luthra/code-notebook/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/keesha-luthra/code-notebook/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/keesha-luthra/code-notebook/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/keesha-luthra/code-notebook/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/keesha-luthra/code-notebook/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/keesha-luthra/code-notebook/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/keesha-luthra/code-notebook/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/keesha-luthra/code-notebook/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/keesha-luthra/code-notebook/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/keesha-luthra/code-notebook/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/keesha-luthra/code-notebook/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/keesha-luthra/code-notebook/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keesha-luthra/code-notebook/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/keesha-luthra/code-notebook/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/keesha-luthra/code-notebook/tree/master/0621-task-scheduler) |
