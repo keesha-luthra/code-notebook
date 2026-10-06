@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/keesha-luthra/code-notebook/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0126-word-ladder-ii) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/keesha-luthra/code-notebook/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/keesha-luthra/code-notebook/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
