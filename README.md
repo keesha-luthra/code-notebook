@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keesha-luthra/code-notebook/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/keesha-luthra/code-notebook/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/keesha-luthra/code-notebook/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/keesha-luthra/code-notebook/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keesha-luthra/code-notebook/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keesha-luthra/code-notebook/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/keesha-luthra/code-notebook/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/keesha-luthra/code-notebook/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/keesha-luthra/code-notebook/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/keesha-luthra/code-notebook/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/keesha-luthra/code-notebook/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/keesha-luthra/code-notebook/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/keesha-luthra/code-notebook/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/keesha-luthra/code-notebook/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/keesha-luthra/code-notebook/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/keesha-luthra/code-notebook/tree/master/0735-asteroid-collision) |
