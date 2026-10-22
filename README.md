@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/keesha-luthra/code-notebook/tree/master/3074-apple-redistribution-into-boxes) |
 | [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/keesha-luthra/code-notebook/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
