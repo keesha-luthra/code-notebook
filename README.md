@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/keesha-luthra/code-notebook/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/keesha-luthra/code-notebook/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/keesha-luthra/code-notebook/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/keesha-luthra/code-notebook/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/keesha-luthra/code-notebook/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/keesha-luthra/code-notebook/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0137-single-number-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/keesha-luthra/code-notebook/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/keesha-luthra/code-notebook/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/keesha-luthra/code-notebook/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/keesha-luthra/code-notebook/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/keesha-luthra/code-notebook/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/keesha-luthra/code-notebook/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/keesha-luthra/code-notebook/tree/master/0231-power-of-two) |
