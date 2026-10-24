@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/keesha-luthra/code-notebook/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/keesha-luthra/code-notebook/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/keesha-luthra/code-notebook/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/keesha-luthra/code-notebook/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/keesha-luthra/code-notebook/tree/master/0120-triangle) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keesha-luthra/code-notebook/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/keesha-luthra/code-notebook/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0100-same-tree) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keesha-luthra/code-notebook/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0100-same-tree) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/keesha-luthra/code-notebook/tree/master/0173-binary-search-tree-iterator) |
