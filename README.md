@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/keesha-luthra/code-notebook/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/keesha-luthra/code-notebook/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/keesha-luthra/code-notebook/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/keesha-luthra/code-notebook/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/keesha-luthra/code-notebook/tree/master/3488-closest-equal-element-queries) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/keesha-luthra/code-notebook/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/keesha-luthra/code-notebook/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/keesha-luthra/code-notebook/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/keesha-luthra/code-notebook/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/keesha-luthra/code-notebook/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/keesha-luthra/code-notebook/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/keesha-luthra/code-notebook/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/keesha-luthra/code-notebook/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/keesha-luthra/code-notebook/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/keesha-luthra/code-notebook/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
