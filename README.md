@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keesha-luthra/code-notebook/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/keesha-luthra/code-notebook/tree/master/0198-house-robber) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/keesha-luthra/code-notebook/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/keesha-luthra/code-notebook/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/keesha-luthra/code-notebook/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keesha-luthra/code-notebook/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/keesha-luthra/code-notebook/tree/master/0169-majority-element) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/keesha-luthra/code-notebook/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/keesha-luthra/code-notebook/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keesha-luthra/code-notebook/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keesha-luthra/code-notebook/tree/master/0162-find-peak-element) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/keesha-luthra/code-notebook/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/keesha-luthra/code-notebook/tree/master/0392-is-subsequence) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/keesha-luthra/code-notebook/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/keesha-luthra/code-notebook/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/keesha-luthra/code-notebook/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/keesha-luthra/code-notebook/tree/master/1096-brace-expansion-ii) |
@@ -683,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/keesha-luthra/code-notebook/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 ## Counting
 |  |
 | ------- |
@@ -990,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keesha-luthra/code-notebook/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/keesha-luthra/code-notebook/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/keesha-luthra/code-notebook/tree/master/0140-word-break-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
